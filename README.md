@@ -8,11 +8,11 @@ It is an application that manages your time.
 ```plaintext
 Example:
 The task may be "Grandma's birthday", with the description "Grandma Sofia turns 70 this year!". The operations will be:
-- buy birthday decorations
-- decorate the living room
-- bake a cake
-- to prepare food
-- invite the family
+- buy birthday decorations - 15m
+- decorate the living room - 1h 15m
+- bake a cake - 1h
+- to prepare food - 3h
+- invite the family - 15m
 ```
 
 By clicking the "+ 15m" or "+ 1h" buttons, we will add the time to the counter that is available for each operation.
